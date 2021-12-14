@@ -11,4 +11,4 @@ Future improvements will include "battle mode" where PacMen bounce off of each o
 License information located inside license file
 
 
-<img src="PacMan1.png">
+<img src="images/PacMan1.png">
